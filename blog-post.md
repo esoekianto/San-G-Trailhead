@@ -8,7 +8,7 @@ It turned out to be a great first Mapbox project, because the app stayed simple 
 
 For this project, I intentionally kept setup simple: I started with a basic working Mapbox Android app, then replaced the generated `MainActivity.kt` with my own version for the challenge.
 
-If you’re new to Mapbox on Android, I’d recommend starting exactly that way. Follow either Mapbox’s written Android setup guide or a starter setup video, make sure you can launch a basic map successfully, and only then start customizing the app. That approach removes a lot of noise because you separate “can I get the SDK working?” from “can I build the app idea I want?”
+If you’re new to Mapbox on Android, I’d recommend starting exactly that way. Follow either Mapbox’s written Android setup guide, [Get started with the Maps SDK for Android](https://docs.mapbox.com/android/maps/guides/install/), or a starter setup video, [Mapbox Android setup video](https://www.youtube.com/watch?v=mUflY-oa5Dk), make sure you can launch a basic map successfully, and only then start customizing the app. That approach removes a lot of noise because you separate “can I get the SDK working?” from “can I build the app idea I want?”
 
 That ended up being a very practical workflow for me. Once the starter app was running, the rest of the work became much more straightforward: center the camera, load the style, add annotations, and wire up tap interaction.
 
