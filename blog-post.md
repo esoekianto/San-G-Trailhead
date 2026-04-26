@@ -3,6 +3,7 @@
 <img width="1024" height="764" alt="image" src="https://github.com/user-attachments/assets/62ad3553-fc04-4f5b-b423-90d66a860df8" />
 
 
+
 I live in [Yucaipa, California](https://yucaipa.gov/), so a lot of my idea of “local” is shaped by the mountains and trailheads around the [San Gorgonio Wilderness](https://www.fs.usda.gov/r05/sanbernardino/wilderness/san-gorgonio-wilderness). Instead of building the standard first-map demo with downtown landmarks or coffee shops, I decided to use a few hiking-related points that actually mean something to me. My app was intentionally tiny: load a basemap, add three point annotations, and show some data when the user taps one. That’s it.
 
 It turned out to be a great first Mapbox project, because the app stayed simple while still teaching me the important concepts: SDK setup, basemap styling, annotations, and user interaction.
