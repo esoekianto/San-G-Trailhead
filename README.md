@@ -27,13 +27,12 @@ The simplest way to run this project is:
      [Get started with the Maps SDK for Android](https://docs.mapbox.com/android/maps/guides/install/)
    - Option B: Follow this setup video:
      [Mapbox Android setup video](https://www.youtube.com/watch?v=mUflY-oa5Dk)
-2. Replace the contents of your generated `MainActivity.kt` with the version in [MainActivity.kt](./MainActivity.kt).
+2. Replace the contents of `MainActivity.kt` with the version in [MainActivity.kt](./MainActivity.kt).
 3. Run the app in Android Studio.
 
 Notes:
 
 - This submission assumes you already have a working Mapbox Android starter app.
-- If your starter project uses a nearby Mapbox SDK version and the app builds successfully, you can keep that version.
 - The only app code you need to swap in for this challenge is `MainActivity.kt`.
 
 ## Running the app
