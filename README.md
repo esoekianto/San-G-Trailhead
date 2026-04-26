@@ -8,6 +8,10 @@ The app is intentionally simple and focuses on three required features:
 - Add three point annotations for trailheads near the San Gorgonio Wilderness
 - Show trailhead information in a `Toast` when a user taps a marker
 
+## Screenshot
+
+<img width="854" height="480" alt="recording" src="https://github.com/user-attachments/assets/472c2a33-3cc9-41d7-9fc5-29f79c37dcbd" />
+
 ## Project structure
 
 - Android app source: your Android Studio project
@@ -62,10 +66,6 @@ The app adds three point annotations using the Annotations API:
 ### Tap interaction
 
 Each created annotation is mapped back to a local Kotlin data object. When the annotation is tapped, the app looks up the corresponding place data and displays it in a `Toast`.
-
-## Screenshot
-
-
 
 ## Reflection
 
