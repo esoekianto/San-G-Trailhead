@@ -1,8 +1,6 @@
 # Building My First Mapbox Android App 
 
-![San Gorgonio Mountain with winter snow](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/San_Gorgonio_Mountain.jpg/820px-San_Gorgonio_Mountain.jpg)
-
-Photo: [San Gorgonio Mountain](https://commons.wikimedia.org/wiki/File:San_Gorgonio_Mountain.jpg) by Doc Searls via Wikimedia Commons, licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/f8533d34-439a-4242-b7aa-0f7d667eb68d" />
 
 I live in [Yucaipa, California](https://yucaipa.gov/), so a lot of my idea of “local” is shaped by the mountains and trailheads around the [San Gorgonio Wilderness](https://www.fs.usda.gov/r05/sanbernardino/wilderness/san-gorgonio-wilderness). Instead of building the standard first-map demo with downtown landmarks or coffee shops, I decided to use a few hiking-related points that actually mean something to me. My app was intentionally tiny: load a basemap, add three point annotations, and show some data when the user taps one. That’s it.
 
